@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-web.js",
+  "name": "X-API.js",
   "version": "1.33.2",
   "description": "Library for interacting with the WhatsApp Web API ",
   "main": "./index.js",
